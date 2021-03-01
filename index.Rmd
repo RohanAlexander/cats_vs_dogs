@@ -1,6 +1,6 @@
 ---
-title: "Cats rule"
-image: "cat.png"
+title: "Dogs rule"
+image: "dog.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -15,4 +15,4 @@ output:
 site: distill::distill_website  
 ---
  
-Cats rule everything about me.
+Dogs rule everything around me.

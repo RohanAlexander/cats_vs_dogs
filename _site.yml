@@ -1,7 +1,7 @@
 name: "."
-title: "Cats rule"
+title: "Dogs rule"
 description: |
-  Cats rule
+  Dogs rule
 output_dir: "docs"
 navbar:
   right:
