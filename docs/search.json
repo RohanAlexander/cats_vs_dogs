@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-01T16:56:37-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Cats rule",
+      "author": [],
+      "contents": "\n\n          \n          \n          Cats rule\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Cats rule\n          \n          \n            \n              Cats rule everything about me.\n            \n            \n              Cats rule everything about me.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-03-01T16:56:38-05:00"
+    }
+  ],
+  "collections": []
+}
