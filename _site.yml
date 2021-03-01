@@ -3,6 +3,7 @@ title: "Cats rule"
 description: |
   Cats rule
 output_dir: "docs"
+google_analytics: "G-SX3418D1W5"
 navbar:
   right:
     - text: "Home"
