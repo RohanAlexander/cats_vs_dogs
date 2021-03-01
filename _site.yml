@@ -3,6 +3,7 @@ title: "Dogs rule"
 description: |
   Dogs rule
 output_dir: "docs"
+google_analytics: "G-WE18Z9DFHE"
 navbar:
   right:
     - text: "Home"
